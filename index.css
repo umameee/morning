@@ -8,3 +8,9 @@ button{
     width: 50px;
     background-color: aquamarine;
 }
+
+.box{
+    height: 20px;
+    width: 20px;
+    background-color: cadetblue;
+}
